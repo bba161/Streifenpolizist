@@ -1,0 +1,63 @@
+{
+  "type": "rheinische-post-ausruestungskarte",
+  "version": 3,
+  "exportedAt": "2026-09-28T09:39:23.892Z",
+  "inventorySide": "right",
+  "mainImage": "bilder/hauptbild-Dietze-Polizei-Mann-links-rgb.jpg",
+  "hotspots": [
+    {
+      "id": "hs_fq1ain9uecg",
+      "title": "Ballistische Schutzweste",
+      "text": "<div>Die Schutzkleidung, umgangssprachlich auch „kugelsichere Weste“, sichert</div><div>Polizeibeamte vor der tödlichen Wirkung von Geschossen und wird über der Dienstkleidung getragen.</div>",
+      "x": 25.08,
+      "y": 19.46,
+      "detailImage": "bilder/detail-01-Schusssicher.jpg",
+      "detailName": "Schusssicher.jpg"
+    },
+    {
+      "id": "hs_thzi4ecvs5q",
+      "title": "Distanz-Elektroimpulsgerät (DEIG)",
+      "text": "<div>Der Taser verschießt mit Gasdruck zwei Pfeilelektroden, die über dünne Drähte bis zu 50.000 Volt übertragen, um Angreifer handlungsunfähig zu machen. Die Geräte sind seit 2020 bei der saarländischen Polizei im Einsatz.</div>",
+      "x": 45.67,
+      "y": 34.48,
+      "detailImage": "bilder/detail-02-taser.jpg",
+      "detailName": "taser.jpg"
+    },
+    {
+      "id": "hs_n67wcw4wwh5",
+      "title": "Heckler & Koch SFP 9",
+      "text": "<div>Seit 2024 als Dienstpistole bei der</div><div>saarländischen Polizei im Einsatz, löst die vorherige Pistole H&amp;K P10 ab. Kaliber: 9 × 19 Milimeter. Das Magazin fasst 17 Schuss.</div>",
+      "x": 21.83,
+      "y": 46.03,
+      "detailImage": "bilder/detail-03-Pistole.jpg",
+      "detailName": "Pistole.jpg"
+    },
+    {
+      "id": "hs_mphg879xz17",
+      "title": "Reizstoffsprühgerät",
+      "text": "<div>Das Gerät fasst laut Hersteller rund 50 Milliliter Reizgas, umgangssprachlich auch Tränengas genannt.</div>",
+      "x": 26.53,
+      "y": 46.89,
+      "detailImage": "bilder/detail-04-pfefferspray.jpg",
+      "detailName": "pfefferspray.jpg"
+    },
+    {
+      "id": "hs_pcl5br9yx8z",
+      "title": "Einsatzstock, ausziehbar (EKA)",
+      "text": "<div>Der Teleskopschlagstock dient zum Einsatz von körperlicher Gewalt. Lässt sich mit einem Schwung aus dem Hangelenk von 18 auf 41 Zentimetern ausfahren.</div>",
+      "x": 39.89,
+      "y": 48.05,
+      "detailImage": "bilder/detail-05-Stock.jpg",
+      "detailName": "Stock.jpg"
+    },
+    {
+      "id": "hs_9dpzvza06v4",
+      "title": "Handfessel",
+      "text": "<div>Handschellen aus Stahl gehören zur</div><div>Standardausrüstung aller Einsatzkräfte.</div><div>Sie werden unter anderem zum</div><div>Selbstschutz, bei Fluchtgefahr oder</div><div>während des Transports genutzt.</div>",
+      "x": 44.94,
+      "y": 46.89,
+      "detailImage": "bilder/detail-06-Handschellen.jpg",
+      "detailName": "Handschellen.jpg"
+    }
+  ]
+}
